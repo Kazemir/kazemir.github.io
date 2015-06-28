@@ -152,6 +152,16 @@ a.button span {
   height: 23px;
 }
 
+a.icons:visited {
+  color: #303030;
+}
+a.icons:active {
+  color: #303030;
+}
+a.icons:hover {
+  color: #303030;
+}
+
 #download-zip span {
   background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
 }
